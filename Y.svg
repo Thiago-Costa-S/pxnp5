@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_2" data-name="Camada 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 501.14 738.67">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Gradiente_sem_nome_91);
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+    <radialGradient id="Gradiente_sem_nome_91" data-name="Gradiente sem nome 91" cx="248.79" cy="479.42" fx="248.79" fy="479.42" r="119.25" gradientUnits="userSpaceOnUse">
+      <stop offset=".2" stop-color="#ec7b23"/>
+      <stop offset=".55" stop-color="#ec7c23"/>
+      <stop offset=".68" stop-color="#ed8325"/>
+      <stop offset=".77" stop-color="#ef8f27"/>
+      <stop offset=".84" stop-color="#f2a02b"/>
+      <stop offset=".9" stop-color="#f6b631"/>
+      <stop offset=".96" stop-color="#fbd037"/>
+      <stop offset=".96" stop-color="#fcd338"/>
+    </radialGradient>
+  </defs>
+  <g id="Camada_1-2" data-name="Camada 1">
+    <g>
+      <g>
+        <circle class="cls-1" cx="248.79" cy="479.42" r="113.09"/>
+        <image width="500" height="737" transform="" xlink:href="../PNG/pngegg.png"/>
+      </g>
+      <path class="cls-2" d="M240.51,496.93l-40.4-77.5h16.35l18,35.63c4.59,9.37,8.82,18.55,13.78,28.1h.74c4.77-9.55,9.55-18.73,14.14-28.1l17.44-35.63h15.8l-40.41,77.5v42.98h-15.43v-42.98Z"/>
+    </g>
+  </g>
+</svg>
